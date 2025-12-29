@@ -8,7 +8,7 @@
   "icons": [
     {
       "src": "https://img.daisyui.com/images/daisyui/daisyui-logo-2000.png",
-      "sizes": "192x192",
+      "sizes": "any",
       "type": "image/png"
     }
   ]
